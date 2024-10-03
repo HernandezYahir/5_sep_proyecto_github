@@ -44,7 +44,7 @@ function Footer(props) {
           <div className="credits ml-auto">
             <div className="copyright">
               &copy; {1900 + new Date().getYear()}, UTD{" "}
-              <i className="fa fa-heart heart" /> Derechos reservados Samuel Reyna
+              <i className="fa fa-heart heart" /> Derechos reservados Yahir Antonio Hernandez Escamilla
             </div>
           </div>
         </Row>
